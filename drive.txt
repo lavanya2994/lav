@@ -1,0 +1,22 @@
+1.Q.what services is used for goole drive?
+Ans.
+ChatGPT
+Google Drive is a cloud storage service offered by Google. It allows users to store files securely online, access them from any device with an internet connection, and share them with others. Some key services and features associated with Google Drive include:
+
+File Storage:
+          Google Drive provides ample storage space (15 GB for free) for users to store various types of files, including documents, photos, videos, and more.
+
+File Synchronization: 
+          Google Drive syncs files across devices, ensuring that users have access to their files from smartphones, tablets, laptops, and desktops.
+
+Collaboration Tools:
+          Google Drive integrates with Google Workspace (formerly G Suite) applications such as Google Docs, Sheets, and Slides, enabling real-time collaboration on documents, spreadsheets, and presentations.
+
+Sharing and Permissions:
+          Users can easily share files and folders with others, granting them view-only or editing permissions. This makes it convenient for collaboration on projects or sharing files with friends, family, or colleagues.
+
+Backup and Recovery:
+          Google Drive can serve as a backup solution for important files. Files stored on Google Drive are safe from hardware failures, and users can recover deleted files within a certain period.
+
+Integration with Third-Party Apps:
+          Google Drive integrates with various third-party applications, allowing users to work with their files using different productivity tools and services.
