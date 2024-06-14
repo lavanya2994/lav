@@ -1,0 +1,17 @@
+Q.Branches of github?
+Ans.
+ChatGPT
+GitHub primarily operates through repositories, which can be considered as the main branches. However, within these repositories, there are several features and concepts that function akin to branches in a version control system like Git. Here are some key branches or features within GitHub:
+
+Main Branches:
+
+Master/Main Branch:
+            Traditionally, this has been the default branch where the main development work occurs.
+Feature Branches: 
+                These branches are created to develop new features. Once the feature is complete, it's often merged back into the main branch.
+Protection Rules:
+                 GitHub allows administrators to set rules for branches, like requiring pull request reviews before merging, requiring status checks to pass, or even requiring specific people to review changes.
+Pull Requests:
+               While not exactly branches, pull requests represent changes made on a branch that are ready to be reviewed and merged into another branch. They facilitate collaboration and code review.
+Forks:
+         When someone forks a repository, they create a copy of the repository under their own GitHub account. They can make changes in their forked repository, similar to creating a branch, and then submit pull requests back to the original repository.
